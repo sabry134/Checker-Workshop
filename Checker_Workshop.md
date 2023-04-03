@@ -5,7 +5,7 @@ Welcome to our Workshop! Your goal will be to create an application that will ta
 # Getting started
 
 * Clone this repository: `git@github.com:sabry134/Checker-Workshop.git`
-* Run the command `Make init`. It will install automatically all the necessary packages.
+* Run the command `make init`. It will install automatically all the necessary packages.
 * This is where you will write your script. The necessary code has already been added into the "checker" file, that has also been created.
 
 
