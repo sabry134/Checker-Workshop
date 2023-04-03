@@ -20,6 +20,8 @@ This is what you should get at the end.:
 
 Create a function that allows you to take a screenshot of your computer when you execute the program
 
+Hint: 
+
 # Task 1
 
 Create a new class and find a way to open a window called "My Checker" with the size of 800 x 500 px. On the top of the window, write "Checker"
@@ -47,7 +49,7 @@ Add a text field between the "Start" button and the "Checker" text. It will cont
 
 # Task 7
 
-Edit the buttons in order to disable the "Start" button when it is pressed (and when the password is correct then). The "Stop" button should always be enabled, no matter what. However for the "Start" button, you should also disable it if there is no input on the text field.
+Edit the buttons in order to disable the "Start" button when it is pressed (and when the password is correct then). The "Stop" button should always be enabled, no matter what. However for the "Start" button, you should also disable it if there is no input on the text field. Additionally, when the password is correct and the "Start" button is pressed, make it possible so you cannot edit the text field.
 
 # Task 8
 
