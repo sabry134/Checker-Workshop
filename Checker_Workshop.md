@@ -1,15 +1,11 @@
 # Python app Checker
 
-Welcome to our Workshop! Your goal will be to create an applicati
+Welcome to our Workshop! Your goal will be to create an application that will take a screenshot of your pc every 30 seconds when a button called "Start" is pressed. When the button "Stop" is pressed, the application stops taking screenshots but does not close the application.
 
 # Getting started
 
-* Click on this link: https://discord.com/developers/applications (login if necessary)
-* Click on "Applications"
-* Click on "New Application"
-* Choose a bot name
-* Click on "Bot"
-* Click on "Add Bot"
+* Clone this repsitory: git@github.com:sabry134/Checker.git
+* 
 
 
 
