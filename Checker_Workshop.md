@@ -12,7 +12,7 @@ Welcome to our Workshop! Your goal will be to create an application that will ta
 
 Add this at the top of your file:
 
-```
+```py
 #!/usr/bin/env python3
 import tkinter as tk
 import pyscreenshot as ImageGrab
