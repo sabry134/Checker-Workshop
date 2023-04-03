@@ -1,6 +1,6 @@
-# Introduction to js
+# Python app Checker
 
-Welcome to our Workshop! Your goal will be to create a Discord bot with js! For that, the worksop will be split in 2 parts. The first part will be a coding language which comes from js, but is an easier version of it, it could even be considered as some "baby" coding language for js. But it is obvious that before creating commands you need a bot! Given the fact we're cool organizers, we will give you a tutorial to create a Discord bot.
+Welcome to our Workshop! Your goal will be to create an applicati
 
 # Getting started
 
