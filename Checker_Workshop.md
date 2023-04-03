@@ -7,23 +7,7 @@ Welcome to our Workshop! Your goal will be to create an application that will ta
 * Clone this repository: git@github.com:sabry134/Checker-Workshop.git
 * Run the command "Make init". It will install automatically all the necessary packages.
 * Run the command "touch checker". It will create a new file called "checker"
-* This is where you will write your script.
-
-
-Add this at the top of your file:
-
-```py
-#!/usr/bin/env python3
-import tkinter as tk
-import pyscreenshot as ImageGrab
-import time
-import os
-
-class ScreenshotApp(tk.Tk):
-    def __init__(self):
-        super().__init__()
-```
-
+* This is where you will write your script. The necessary code has already been added into the "checker" code.
 
 
 
