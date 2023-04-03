@@ -7,7 +7,6 @@
 
 SRC	=	checker	\
 
-CFLAGS	=	-std=gnu17 -Wall -Wextra
 
 all:    $(NAME)
 
