@@ -51,7 +51,7 @@ Hint: self.start_btn = tk.Button(
 
 # Task 3
 
-Make it possible so when you press start, your function to take screenshots of your computer is enabled and runs in a loop until the button "Stop" is pressed. Each screenshot should be named following this format: "screenshot_[unixtime]". Use "time.time()" for this. Print the screenshot at the root for now
+Make it possible so when you press start, your function to take screenshots of your computer is enabled and runs in a loop until the button "Stop" is pressed. Each screenshot should be named following this format: "screenshot_[unixtime]". Use "time.time()" for this. Print the screenshot at the root for now. A screenshot should be taken every 10 seconds.
 
 Hint: Call your function that takes screenshots inside your button when creating it.
 
