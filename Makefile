@@ -13,6 +13,12 @@ all:    $(NAME)
 init:	
 	./init.sh
 
+fedora:
+	./fedora.sh
+
+ubuntu:
+	./ubuntu.sh
+
 execute:
 	./checker
 
