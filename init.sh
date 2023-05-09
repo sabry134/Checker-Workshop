@@ -14,4 +14,3 @@ chmod +x checker
 pip install pyscreenshot
 pip install Pillow
 pip install tk
-sudo dnf install python3-tkinter
